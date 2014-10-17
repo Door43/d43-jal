@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jal:home|Door43 (jal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jal|d43-jal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jal/archive/master.zip|d43-jal.zip]]
+
+**Recent Changes**
+{{changes>ns = jal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jal|Ethnologue data]]
+
